@@ -78,7 +78,7 @@ ul{
 }
 /*top header*/
 .top-header {
-    background: #000 none repeat scroll 0 0;
+    background: #3e4192 none repeat scroll 0 0;
     padding: 12px 0;
 }
 .social-grid li a {
@@ -164,7 +164,7 @@ ul{
 }
 #logo > a span {
     color: #000;
-    font-size: 50px;
+    font-size: 30px;
 }
 .book-now-btn {
     background: #ff4157 none repeat scroll 0 0;
@@ -204,7 +204,7 @@ ul{
     transform: translateX(0%);
 }
 .cl-effect-10 a.active{
-    color: #ff;
+    color: #ffffff;
 }
 .cl-effect-10 {
     position: relative;
@@ -747,9 +747,7 @@ footer a{
     color: #000;
 
 }
-.blog-title-head > a:hover{
 
-}
 .blog-date {
     color: #000;
     font-size: 18px;
